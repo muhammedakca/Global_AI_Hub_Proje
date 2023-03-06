@@ -1,4 +1,4 @@
 # Global-AI-Hub-icin-Proje
 Akıllı Binalar için Deprem Öngörü ve Önlem Sistemi
 
-Fikir içeriğini daha da zenginleştirmek isterdim ama bulabildiğim makaleler, araştırmalar çok sınırlıydı veya ben bulamadım. Daha iyisini yapabilirdim.
+Görsellerle biraz daha içeriği zenginleştirmeyi düşündüm ama bu sefer görseller hakkında bilgi ve detay vermem gerektiği için konu dışına çıkmak istemedim. 
